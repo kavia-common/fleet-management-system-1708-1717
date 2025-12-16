@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/fleet-management-system-1708-1717/frontend_fleet_management"
+}
